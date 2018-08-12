@@ -8,11 +8,11 @@ Library is (almost :p ) fully tested with doctest framework.
 
 Result from tests:
 
-![Alt text](TESTS/test_result.PNG "Results")
+![Results](TESTS/test_results.PNG)
 
 And report from test coverage:
 
-![Alt text](TESTS/coverage.PNG "Results")
+![Coverage](TESTS/coverage.PNG)
 
 # todo
 
