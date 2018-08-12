@@ -17,9 +17,8 @@ typedef struct EEPROM_WL_slot_info_str
 	uint8_t counter;	// actual counter in slot
 } EEPROM_WL_slot_info_str;
 
+// registered pointer to low lalyer EEPROM functions
 static EEPROM_WL_init_str *EEPROM_WL_functions;
-
-
 
 //! default EEPROM memory value - indicate empty/not used memory cell
 //! used in find memory slot functions
